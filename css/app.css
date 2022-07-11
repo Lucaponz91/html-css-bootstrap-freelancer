@@ -11,3 +11,8 @@
 .avatar{
     max-height: 255px;
 }
+
+.row-portfolio img{
+    max-width: 360px;
+    height: 100%;
+}
