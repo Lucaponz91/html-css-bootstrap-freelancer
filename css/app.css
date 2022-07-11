@@ -27,3 +27,26 @@
 .footer-copyright{
     background-color: #2C3E50;
 }
+.line-white{
+    height: 2px;
+    width: 135px;
+    background-color: white;
+}
+.line-black{
+    height: 2px;
+    width: 135px;
+    background-color: black;
+}
+.button-download{
+    border: 1px solid white;
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+}
+.button-send{
+    border:1px solid #1ABC9C;
+    text-decoration: none;
+    color: white;
+    border-radius: 5px;
+    background-color: #1ABC9C;
+}
