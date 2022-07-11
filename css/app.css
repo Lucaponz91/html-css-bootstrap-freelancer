@@ -1,0 +1,13 @@
+.nav-header a{
+    text-decoration: none;
+    color: white;
+}
+
+.hero{
+    height: 600px;
+    background-color: #1ABC9C;
+}
+
+.avatar{
+    max-height: 255px;
+}
