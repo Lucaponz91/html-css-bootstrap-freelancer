@@ -24,12 +24,12 @@
 }
 .line-white{
     height: 2px;
-    width: 135px;
+    width: 10%;
     background-color: white;
 }
 .line-black{
     height: 2px;
-    width: 135px;
+    width: 10%;
     background-color: black;
 }
 .button-download{
